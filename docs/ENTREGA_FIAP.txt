@@ -1,0 +1,9 @@
+=== GLOBAL SOLUTION 2026.2 ===
+Disciplina: Cross-Platform Application Development
+Desafio: Territory Predictive Insights
+
+Integrante 1: Auro Vanetti de Moura Andrade | RM: 563761
+Integrante 2: Renan Mano Otero | RM: 554911
+
+GitHub: https://github.com/bunanas-360/CPAD-GS-2026-2.git
+Vídeo: https://youtu.be/oMcFtSJSMHc
